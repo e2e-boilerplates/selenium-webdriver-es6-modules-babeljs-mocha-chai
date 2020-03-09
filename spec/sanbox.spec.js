@@ -1,8 +1,9 @@
 import { Builder, By } from "selenium-webdriver";
 import chrome from "selenium-webdriver/chrome";
-const { expect } = require("chai");
 
 import "chromedriver";
+
+const { expect } = require("chai");
 
 const options = new chrome.Options();
 const chromeOptions = process.env.GITHUB_ACTIONS ? options.headless() : options;
