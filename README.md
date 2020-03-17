@@ -1,4 +1,4 @@
-[![GitHub Actions status | e2e-boilerplate/selenium-webdriver-es-modules-babel-mocha-chai-expect](https://github.com/e2e-boilerplate/selenium-webdriver-es-modules-babel-mocha-chai-expect/workflows/selenium-webdriver-es-modules-babel-mocha-chai-expect/badge.svg)](https://github.com/e2e-boilerplate/selenium-webdriver-es-modules-babel-mocha-chai-expect/actions?workflow=selenium-webdriver-es-modules-babel-mocha-chai-expect)
+[![GitHub Actions status | e2e-boilerplate/selenium-webdriver-es-modules-babel-mocha-chai-expect](https://github.com/e2e-boilerplate/selenium-webdriver-es-modules-babel-mocha-chai-expect/workflows/selenium-webdriver-es-modules-babel-mocha-chai-expect/badge.svg)](https://github.com/e2e-boilerplate/selenium-webdriver-es-modules-babel-mocha-chai-expect/actions?workflow=selenium-webdriver-es-modules-babel-mocha-chai-expect) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
     
 # Selenium-WebDriver Boilerplate
     
